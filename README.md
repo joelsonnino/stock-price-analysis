@@ -36,9 +36,3 @@ Results:
 - The moving averages provide insights into the stock trends over short-term and medium-term periods.
 - Correlation analysis helps in understanding the relationship between the stock movements of the different companies.
 - Classification of days as bullish or bearish based on daily returns gives an overview of market sentiment.
-
-Conclusion
-This project demonstrates the application of REST APIs and data manipulation in financial data analysis. It provides a solid foundation for further exploration in the field of quantitative finance.
-
-Feel free to contribute or suggest improvements to this project. For any questions, contact me via Linkedin: https://www.linkedin.com/in/joel-sonnino-980b911a5/.
-
